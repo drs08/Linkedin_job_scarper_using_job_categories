@@ -18,5 +18,5 @@ To check the version of your chrome [refer](https://help.zenplanner.com/hc/en-us
 
 **Working of the code**
 
-The chromedriver will first open [career Guide](https://www.careerguide.com/career-options) and get all the career categories then it will open the [Linkedin](https://linkedin.com/uas/login) login page and will login through the account details you provide in the code. Then based on all the categories of job extraced from careerguide it will search on linkedin and will print the information off all jobs for the particular jobs avialable.
+The chromedriver will first open [career Guide](https://www.careerguide.com/career-options) and get all the career categories then it will open the [Linkedin](https://linkedin.com/uas/login) login page and will login through the account details you provide in the code. Then based on all the categories of job extraced from careerguide it will search on linkedin and will print the information off all jobs for the particular jobs avialable. Then it will search for details of each and every companies offering job and will print the details.
 
