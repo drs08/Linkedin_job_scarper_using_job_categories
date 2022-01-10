@@ -10,6 +10,19 @@ pip install selenium
 ```
 pip install bs4
 ```
+```
+pip install mysql-connector-python
+```
+```
+pip install requests
+```
+```
+pip install pip install PyMySQL
+```
+**Installing MYSQL Workbench**
+
+Install your MYSQL Workbench from [here](https://dev.mysql.com/downloads/workbench/) and then connect the workbench.
+
 **Installing chrome driver**
 
 Install your chromedriver from [Chromedriver](https://chromedriver.chromium.org/downloads)
