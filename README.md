@@ -17,7 +17,7 @@ pip install mysql-connector-python
 pip install requests
 ```
 ```
-pip install pip install PyMySQL
+pip install PyMySQL
 ```
 **Installing MYSQL Workbench**
 
