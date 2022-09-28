@@ -27,7 +27,7 @@ Install your MYSQL Workbench from [here](https://dev.mysql.com/downloads/workben
 
 Install your chromedriver from [Chromedriver](https://chromedriver.chromium.org/downloads)
 
-To check the version of your chrome [refer](https://help.zenplanner.com/hc/en-us/articles/204253654-How-to-Find-Your-Internet-Browser-Version-Number-Google-Chrome)
+To check the version of your chrome [refer](https://www.businessinsider.com/guides/tech/what-version-of-google-chrome-do-i-have?IR=T)
 
 **Working of the code**
 
